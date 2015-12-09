@@ -52,21 +52,21 @@
 
 ;update channel
 update channel
-
+قناة التحديث
 
 ;updates
 updates
-
+تحديثات
 
 # Possible value for "updates"
 ;automatic
 automatic
-
+آلي
 
 # Possible value for "updates"
 ;prompt
 prompt
-
+دفع فوري
 
 ;time open
 وقت الفتح
@@ -94,11 +94,11 @@ Active Add-ons
 
 ;Extensions
 Extensions
-
+ملحقات
 
 ;Plugins (Click-to-Activate)
 Plugins (Click-to-Activate)
-
+الإضافات (انقر للتنشيط)
 
 ;crashes
 انهيارات
